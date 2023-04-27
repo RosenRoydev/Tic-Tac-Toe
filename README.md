@@ -2,7 +2,7 @@
 
 <h> TIC-TAC-TOE </h>
 
-This project is based on multidimensional arrays, Methods   etc, loops , etc.
+This project is based on multidimensional arrays, Methods , loops , etc.
 
 In the game have two player. One of them plays with 'X' , the other one plays with 'O'.
 
