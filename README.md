@@ -6,7 +6,7 @@ This project is based on multidimensional arrays, Methods , loops , etc.
 
 In the game have two player. One of them plays with 'X' , the other one plays with 'O'.
 
-The winner is the player who made 3 times froom symbols in line (vertical, horizontal ot diagonal)
+The winner is the player who made 3 times from his symbol in line (vertical, horizontal or diagonal)
 
 Enjoy!
 
